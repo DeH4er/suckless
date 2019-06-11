@@ -1,4 +1,5 @@
 #!/bin/sh
+
 src="$HOME/source"
 apps="dwm st surf dmenu slstatus tabbed"
 

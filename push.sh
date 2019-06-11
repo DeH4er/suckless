@@ -11,6 +11,7 @@ do
   logexec "git add ."
   logexec "git commit -m 'update'"
   logexec "git push origin my"
+  logexec "git pull origin my"
   i=$(( $i + 1 ))
 done
 
